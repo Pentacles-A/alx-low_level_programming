@@ -6,9 +6,7 @@
  */
 int main(void)
 {
-	int c;
-
-	int i;
+	int c, i;
 
 	for (c = '0'; c <= '9'; c++)
 	{
@@ -17,7 +15,7 @@ int main(void)
 			if (c < i)
 			{
 				putchar(c);
-				putchar(c);
+				putchar(i);
 
 				if (c != '8' || (c == '8') && i != '9')
 				{
