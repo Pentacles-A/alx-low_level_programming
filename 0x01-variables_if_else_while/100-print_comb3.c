@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Print numbers with space and comma in particular order
+ * main - Print same numbers in double with space and comma
  *
  * Return: Always 0 (Success)
  */
